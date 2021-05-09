@@ -22,31 +22,31 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a French Teach and Web development student. I am a self taught Full Stack Web Developer, currently completing my certification May 2021 through Vanderbilt's FSF program. I believe that to be successful in life, one can't lose sight of their dreams and keep working on doing what they love.",
-    "address":"Would like to work form India",
+    "aboutme":"I am currently a French Teach and Web development student. I am working toward becoming a Full Stack Web Developer, currently completing my certification May 2021 through Vanderbilt's FSF program. I believe that to be successful in life, one can't lose sight of their dreams and keep working on doing what they love.",
+    "address":"From Chicago, living in Nashville, TN. Would love to work form India",
     "website":"https://jojoford.github.io",
     "education":[
       {
         "UniversityName":"Vanderbilt University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"June",
-        "YearOfPassing":"2021",
-        "Achievements":"Some Achievements"
+        "specialization":"Majors: English, French",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2010",
+        "Achievements":"B.A."
       },
       {
         "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "specialization":"Minor in Environmental Science",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2010",
         "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "CompanyName":"Vanderbilt Coding Bootcamp",
+        "specialization":"FSF",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2021",
         "Achievements":"Some Achievements"
       },
       {
@@ -94,7 +94,7 @@ let resumeData = {
     "testimonials":[
       {
         "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "name":"Some technical woman"
       },
       {
         "description":"This is a sample testimonial",
