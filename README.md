@@ -50,7 +50,7 @@ Application must be deployed to GitHub Pages.
 
 ## Video of Deployed application
 
-<iframe src="https://drive.google.com/file/d/157uJLGIlnjpA_xjF7KSFpnbiS8eQhBFl/preview" width="640" height="480">Click me!</iframe>
+"https://drive.google.com/file/d/157uJLGIlnjpA_xjF7KSFpnbiS8eQhBFl/preview" 
 
 ## How to 
 1. Clone/Download the repo.
