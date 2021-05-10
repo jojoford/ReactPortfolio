@@ -1,8 +1,8 @@
 
 
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
-
+You can use this as a Portfolio template for developer/designers built with React. Edit it to showcase your work, testimonials and other information to clients.
+Thanks to Rahul Bhatia (rbhatia46) for a lot of help.
 ## Preview
 
 
