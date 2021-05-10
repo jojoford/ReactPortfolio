@@ -53,7 +53,7 @@ Application must be deployed to GitHub Pages.
 "https://drive.google.com/file/d/157uJLGIlnjpA_xjF7KSFpnbiS8eQhBFl/preview" 
 
 ## How to 
-You may use this Portfolio template for developer/designers built with React. Edit it to showcase your work, testimonials and other information to clients.
+You may use this portfolio as a template for a developer/designer. Edit it to showcase your work, testimonials and other information to clients.
 Special thanks to Rahul Bhatia
 (rbhatia46) for much help
 
