@@ -47,6 +47,8 @@ Application must be deployed to GitHub Pages.
 
 ## The Site
 [![React-Portfolio-screenshot.png](https://i.postimg.cc/D0SVpCCT/React-Portfolio-screenshot.png)](https://postimg.cc/ctG5rcy9)
+Visit at: 
+https://jojofordportfolio.herokuapp.com/
 
 ## Video of Deployed application
 
