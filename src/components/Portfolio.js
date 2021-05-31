@@ -20,6 +20,7 @@ export default class Porfolio extends Component {
                         <a class="list-group-item list-group-item-action" id="list-pw-list" data-toggle="list" href="#list-pw" role="tab" aria-controls="pw">----- Weather Dashboard-----</a>
                         <a class="list-group-item list-group-item-action" id="list-btProject-list" data-toggle="list" href="#list-btProject" role="tab" aria-controls="btProject">Budget Tracker</a>
                         <a class="list-group-item list-group-item-action" id="list-run-list" data-toggle="list" href="#list-run" role="tab" aria-controls="run">---- Run Buddy</a>
+                <a class="list-group-item list-group-item-action" id="list-project3" data-toggle="list" href="#project-3" role="tab" aria-controls="project3">---- Project3:Photo Albulm</a>
                     </div>
                
                     <div class="tab-content" id="nav-tabContent">
@@ -60,6 +61,12 @@ export default class Porfolio extends Component {
                             <p><b>NovelFilms Application Project</b></p>
                             <p>Deployed at: <a href="https://jojoford.github.io/run-buddy/" target="_blank">RUN BUDDY!</a></p>
                             <p>GitHub repository: <a href="https://github.com/jojoford/run-buddy" target="_blank">https://github.com/jojoford/run-buddy</a></p>
+                        </div>
+                <div class="tab-pane fade" id="list-project3" role="tabpanel" aria-labelledby="list-project3">
+                            <img id="img" src="images/photoalbulm1.png" className="item-img" alt="Photoalbulm screenshot" width="100%" />
+                            <p><b>Project 3: Photo Albulm</b></p>
+                            <p>Deployed at: <a href="https://drive.google.com/file/d/1d8WVRudGNRzxSrOAxdSAzpHTbhePzmF2/view" target="_blank">Photo Albulm</a></p>
+                            <p>GitHub repository: <a href="https://github.com/jojoford/Project3" target="_blank">https://github.com/jojoford/Project3</a></p>
                         </div>
                     </div>
                    
